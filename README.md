@@ -1,2 +1,2 @@
 # Japan_JMA_Full_LIVE_Predictions
-Japan_JMA_Full_LIVE_Prediction
+LIVE model predictions — trained on ALL data, calibrated on last 3 years.
